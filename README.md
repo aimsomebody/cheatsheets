@@ -7,3 +7,8 @@ Following cmd will find and no actions will be taken:
 To delete:
 
     rdfind -deleteduplicates true /home/user
+
+
+# Res
+
+https://wiki.sans.blue/#!Tools/WindowsEventLogsTable.md
