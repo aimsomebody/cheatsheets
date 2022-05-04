@@ -12,3 +12,4 @@ To delete:
 # Res
 
 https://wiki.sans.blue/#!Tools/WindowsEventLogsTable.md
+https://www.mandiant.com/resources/greater-visibilityt
