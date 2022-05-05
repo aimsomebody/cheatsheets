@@ -13,6 +13,10 @@ To delete:
     vol.py -f WIN-LQS146OE2S1-20201027-142607.raw --profile=Win7SP1x64 mftparser --output=body -D ~/aaaaa --output-file=grrcon_mft.body
     mactime -b grrcon_mft.body -d -z UTC |less   
 
+# Mozzila credentials decrypt
+
+https://github.com/lclevy/firepwd
+
 # Res
 
 https://wiki.sans.blue/#!Tools/WindowsEventLogsTable.md
