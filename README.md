@@ -20,7 +20,12 @@ https://github.com/lclevy/firepwd
 #  Keystrokes decoder
 
     tshark -r specified.pcapng -T fields -e usb.capdata | tr -d : >> keystrokes.txt
-    
+
+# bmc-tools.py
+Can be used to extract bmp files from RDP cache file(usually this files have RDP8BMP header).
+https://github.com/ANSSI-FR/bmc-tools/blob/master/bmc-tools.py
+            
+            bmc-tools.py -s Cache0000.bin -d /
 # Res
 
 https://wiki.sans.blue/#!Tools/WindowsEventLogsTable.md
