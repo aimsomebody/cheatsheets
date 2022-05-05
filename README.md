@@ -29,7 +29,7 @@ https://github.com/ANSSI-FR/bmc-tools/blob/master/bmc-tools.py
             
             bmc-tools.py -s Cache0000.bin -d /
 # Res
-
+https://www.firewall.cx/cisco-technical-knowledgebase/cisco-routers/358-cisco-type7-password-crack.html
 https://wiki.sans.blue/#!Tools/WindowsEventLogsTable.md
 https://www.mandiant.com/resources/greater-visibilityt
 https://nasbench.medium.com/windows-forensics-analysis-tools-and-resources-b819c8b4b6b0
