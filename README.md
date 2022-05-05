@@ -26,3 +26,4 @@ https://github.com/lclevy/firepwd
 https://wiki.sans.blue/#!Tools/WindowsEventLogsTable.md
 https://www.mandiant.com/resources/greater-visibilityt
 https://nasbench.medium.com/windows-forensics-analysis-tools-and-resources-b819c8b4b6b0
+https://zeltser.com/analyzing-malicious-documents/
