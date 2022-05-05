@@ -17,6 +17,10 @@ To delete:
 
 https://github.com/lclevy/firepwd
 
+#  Keystrokes decoder
+
+    tshark -r specified.pcapng -T fields -e usb.capdata | tr -d : >> keystrokes.txt
+    
 # Res
 
 https://wiki.sans.blue/#!Tools/WindowsEventLogsTable.md
